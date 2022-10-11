@@ -1,35 +1,37 @@
-# **Java Capitulo 2**
+# **Java Capitulo 3**
 
 ## Ejercicio 1
-Escribe un programa en el que se declaren las variables enteras x e y.
-Asígnales los valores 144 y 999 respectivamente. 
-A continuación, muestra por pantalla el valor de cada variable, la suma, la resta, la división y la multiplicación.
+Realiza un programa que pida dos números y que luego muestre el resultado de su multiplicación.
 
 ## Ejercicio 2
-Crea la variable nombre y asígnale tu nombre completo.
-Muestra su valor por pantalla de tal forma que el resultado del programa sea el mismo que en el ejercicio 1 del capítulo 1.
+Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere convertir debe ser introducida por teclado.
 
 ## Ejercicio 3
-Crea las variables nombre, direccion y telefono y asígnales los valores correspondientes.
-Muestra los valores de esas variables por pantalla de tal forma que el resultado del programa sea el mismo que en el ejercicio 2.
+Realiza un conversor de pesetas a euros. La cantidad de pesetas que se quiere convertir debe ser introducida por teclado.
 
 ## Ejercicio 4
-Realiza un conversor de euros a pesetas. 
-La cantidad en euros que se quiere convertir deberá estar almacenada en una variable.
+Escribe un programa que sume, reste, multiplique y divida dos números introducidos por teclado.
 
 ## Ejercicio 5
-Realiza un conversor de pesetas a euros. 
-La cantidad en pesetas que se quiere convertir deberá estar almacenada en una variable.
+Escribe un programa que calcule el área de un rectángulo.
 
 ## Ejercicio 6
-Escribe un programa que calcule el total de una factura a partir de la base imponible (precio sin IVA). 
-La base imponible estará almacenada en una variable.
+Escribe un programa que calcule el área de un triángulo.
 
 ## Ejercicio 7
-Escribe un programa que declare variables de tipo char y de tipo String.
-Intenta mostrarlas por pantalla todas juntas en la misma línea y con una sola sentencia de Java (con un solo println) ¿es posible?
+Escribe un programa que calcule el total de una factura a partir de la base imponible.
 
 ## Ejercicio 8
-Escribe un programa que declare 5 variables de tipo char.
-A continuación, crea otra variable como cadena de caracteres y asígnale como valor la concatenación de las anteriores 5 variables.
-Por último, muestra la cadena de caracteres por pantalla ¿Qué problemas te encuentras? ¿cómo lo has solucionado?
+Escribe un programa que calcule el salario semanal de un empleado en base a las horas trabajadas, a razón de 12 euros la hora.
+
+## Ejercicio 9
+Escribe un programa que calcule el volumen de un cono.
+
+## Ejercicio 10
+Realiza un conversor de Mb a Kb.
+
+## Ejercicio 11
+Realiza un conversor de Kb a Mb.
+
+## Ejercicio 12
+Realiza un programa que calcule la nota que hace falta sacar en el segundo examen de la asignatura Programación para obtener la media deseada. Hay que tener en cuenta que la nota del primer examen cuenta el 40% y la del segundo examen un 60%.
