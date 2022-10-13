@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Ejercicio4{
-	public static void main(String args[]){
+	public static void main(String [] args){
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Introduce el primer numero");
 		int n1 = sc.nextInt();
