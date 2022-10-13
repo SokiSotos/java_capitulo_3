@@ -7,7 +7,7 @@ public class Ejercicio9{
 		System.out.println("Introduce la altura del cono");
 		double altura = sc.nextDouble();
         double volumen = Math.PI*Math.pow(radio, 2)*altura/3;
-            System.out.printf("El volumen del cono es: %.2f cm",volumen);
+            System.out.printf("El volumen del cono es: %.2f cm cubicos",volumen);
     sc.close();
 	}
 }
